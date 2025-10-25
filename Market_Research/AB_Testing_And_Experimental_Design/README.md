@@ -1,1 +1,1 @@
-
+For a market research class, my group designed and analyzed an A/B experiment on celebrity endorsements’ impact on consumer perception using survey data. My contributions included background research for the project proposal, the experimental design and making of the survey using qualtrics (see survey document), design of the advertisments used in the A/B test, and presenting the introduction, background research, and objectives in our report. 
