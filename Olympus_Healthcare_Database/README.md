@@ -1,1 +1,1 @@
-
+For my Database fundamentals class, a group and I designed, programmed using MySQL, and queried a relational database for Olympus Healthcare. My contributions includes the business rules for the database, the MySQL DDL, and some of the queries. 
