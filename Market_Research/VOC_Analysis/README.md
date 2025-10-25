@@ -1,1 +1,1 @@
-
+For a market research class, my group developed product requirements through user interviews, affinity diagramming, and Voice of the Customer (VOC) analysis. My contributions included the background research, a user interveiw, and collaborated with team members on the VOC analysis to define the business requirements for the student meal planning app. 
