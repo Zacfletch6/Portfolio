@@ -1,1 +1,1 @@
-
+This section showcases projects focused on analyzing, preparing, and visualizing data using Python. It highlights libraries such as pandas, NumPy, matplotlib, seaborn, and sklearn to extract insights on business problems, perform exploratory data analysis (EDA), and provide actionable reccamendations.
